@@ -1,0 +1,23 @@
+{
+  "short_name": "Sky Bridge",
+  "name": "Sky Bridge",
+  "icons": [
+    {
+      "src": "iconAsset/launcher-icon-1x.png",
+      "type": "image/png",
+      "sizes": "48x48 72x72"
+    },
+    {
+      "src": "iconAsset/launcher-icon-2x.png",
+      "type": "image/png",
+      "sizes": "96x96 128x128"
+    },
+    {
+      "src": "iconAsset/launcher-icon-4x.png",
+      "type": "image/png",
+      "sizes": "192x192 256x256"
+    }
+  ],
+  "start_url": "index.html?launcher=true",
+  "game_version": "1.0.9"
+}
